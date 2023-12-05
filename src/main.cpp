@@ -1,5 +1,5 @@
 ﻿#include <cstdlib>
-
+//lol
 #include "raylib.h"
 
 #include "config.h"
