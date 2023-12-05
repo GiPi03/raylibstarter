@@ -3,4 +3,3 @@
 project(raylibstartertest)
 
 add_subdirectory ("src")
- ich probiere mal ob es geht lol
